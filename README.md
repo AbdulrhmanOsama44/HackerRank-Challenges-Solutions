@@ -172,6 +172,8 @@ Feel free to explore and use them for learning purposes!
 
 HackerRank: https://www.hackerrank.com/profile/AbdulrhmanOsama4
  
- LinkedIn: https://www.linkedin.com/in/abdulrhman-osama/
+LinkedIn: https://www.linkedin.com/in/abdulrhman-osama/
+
+<img width="1919" height="761" alt="Image" src="https://github.com/user-attachments/assets/175e3585-af56-431f-93d8-e45a973839ea" />
 
 Happy Coding! 🚀
