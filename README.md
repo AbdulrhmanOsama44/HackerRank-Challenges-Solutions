@@ -175,5 +175,6 @@ HackerRank: https://www.hackerrank.com/profile/AbdulrhmanOsama4
 LinkedIn: https://www.linkedin.com/in/abdulrhman-osama/
 
 <img width="1919" height="761" alt="Image" src="https://github.com/user-attachments/assets/175e3585-af56-431f-93d8-e45a973839ea" />
+<img width="1209" height="922" alt="Image" src="https://github.com/user-attachments/assets/0eea52e6-4d29-4fdd-acd5-cf0ca67f95e6" />
 
 Happy Coding! 🚀
