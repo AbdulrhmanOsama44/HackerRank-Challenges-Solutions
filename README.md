@@ -169,7 +169,8 @@ Feel free to explore and use them for learning purposes!
 
 ## 🌐 Connect:
 > Feel free to connect with me on:
- HackerRank: https://www.hackerrank.com/profile/AbdulrhmanOsama4
+
+> HackerRank: https://www.hackerrank.com/profile/AbdulrhmanOsama4
  
  LinkedIn: https://www.linkedin.com/in/abdulrhman-osama/
 
