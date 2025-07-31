@@ -1,0 +1,5 @@
+num_of_english_subscribers = int(input())
+english_subscribers = set(map(int, input().split()))
+num_of_french_subscribers = int(input())
+french_subscribers = set(map(int, input().split()))
+print(f'{len(english_subscribers.intersection(french_subscribers))}')
